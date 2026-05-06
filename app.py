@@ -11,4 +11,5 @@ def inicio():
 	<p>Con 100 millones de usuarios ganas. <b>$1,000,000</b></p>
 	"""
 
-app.run(host="0-0.0.0", port=10000)
+if__name__ == "__main__":
+    app.run(host="0.0.0.0", port=10000)
